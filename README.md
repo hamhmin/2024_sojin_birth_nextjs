@@ -35,5 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-
-git remote add origin https://github.com/hamhmin/2024_sojin_birth_nextjs.git
+https://2024-sojin-birth-nextjs.vercel.app/
